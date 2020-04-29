@@ -1,3 +1,4 @@
 0001 - ERRO ao incluir Tipo de Produto;
 0002 - ERRO ao Atualizar Tipo de Produto;
-0003 - ERRO ao Excluir Tipo de Produto; 
+0003 - ERRO ao Excluir Tipo de Produto;
+0004 - 
